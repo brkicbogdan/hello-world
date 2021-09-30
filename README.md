@@ -1,4 +1,4 @@
 # hello-world
 Hello World REPO
 
-OVO JE main GRANA
+OVO JE Prvi-branch GRANA
