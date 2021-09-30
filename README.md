@@ -1,4 +1,4 @@
 # hello-world
 Hello World REPO
 
-OSNOVNI
+OVO JE main GRANA
